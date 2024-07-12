@@ -1,5 +1,5 @@
 # Dev-util
-Pagina criada com o intuito de juntar informações uteis para programadores.
+Pagina criada com o intuito de juntar informações uteis para praticar programaação.
 
 ## Desafios de codigos
 [CollabCodeTech backend challenges](https://github.com/CollabCodeTech/backend-challenges)
