@@ -1,12 +1,12 @@
 # Dev-util
-Pagina criada com o intuito de juntar informações uteis para praticar programaação.
+Pagina criada com o intuito de juntar informações uteis para praticar programaação e uso diario de devs.
 
 ## Desafios de codigos
 [CollabCodeTech backend challenges](https://github.com/CollabCodeTech/backend-challenges)
 
 [felipefialho frontend challenges](https://github.com/felipefialho/frontend-challenges)
 
-## Icones
+## Banco de Icones
 [devicon](https://devicon.dev)
 
 [icongr.am](https://icongr.am/devicon)
@@ -17,7 +17,7 @@ Pagina criada com o intuito de juntar informações uteis para praticar programa
 
 [flaticon](https://www.flaticon.com/br/)
 
-## imagens
+## Banco de Imagens
 [pexels](https://www.pexels.com/pt-br/)
 
 [unsplash](https://unsplash.com/pt-br)
@@ -29,3 +29,6 @@ Pagina criada com o intuito de juntar informações uteis para praticar programa
 [pixabay](https://pixabay.com/pt/)
 
 [gettyimages](https://www.gettyimages.com.br)
+
+## Ferramentas
+[wsrv.nl](https://images.weserv.nl) manipulação de imagens via cache
