@@ -1,5 +1,6 @@
 # Dev-util
 Page created to organise information for daily use towards programming
+
 Pagina criada para juntar informações para uso diario de programadores
 
 ## Code challenge | Desafios de codigos
